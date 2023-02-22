@@ -1,0 +1,37 @@
+.contact-list {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: White;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+}
+
+.fx {
+    padding-right: 10px;
+}
